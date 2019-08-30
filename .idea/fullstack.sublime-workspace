@@ -1,0 +1,2222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line",
+				"line-height\tproperty"
+			],
+			[
+				"visi",
+				"visible-xs \tBootstrap 3 Class"
+			],
+			[
+				"sub",
+				"subscriptions"
+			],
+			[
+				"box",
+				"box_name"
+			],
+			[
+				"cli",
+				"cli_ids_to_fix"
+			],
+			[
+				"optio",
+				"option_values"
+			],
+			[
+				"sli",
+				"slideUp\t.slideUp()"
+			],
+			[
+				"val",
+				"val\t.val()"
+			],
+			[
+				"cha",
+				"charge"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"fileg",
+				"file_get_contents"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"rea",
+				"ready\t$(document).ready"
+			],
+			[
+				"todo",
+				"todobox"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"aramap",
+				"array_map"
+			],
+			[
+				"arra",
+				"array_element"
+			],
+			[
+				"cook",
+				"cookie_name"
+			],
+			[
+				"php",
+				"php\t<?php … ?>"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"comm",
+				"comm-block\tComment - Block style comment"
+			],
+			[
+				"lett",
+				"letter_path"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"ank",
+				"anketa_data"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"pos",
+				"pos-abs"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"Stree",
+				"StreetAdventure"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"fle",
+				"flex-cc"
+			],
+			[
+				"ge",
+				"geometriabold"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"zaka",
+				"zakaz_data"
+			],
+			[
+				"codes",
+				"codes_arr"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"box_type",
+				"box_type_id"
+			],
+			[
+				"str",
+				"strtotime"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"tdr",
+				"tdr_certs"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"To",
+				"ToDoBox"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"align",
+				"align-l"
+			],
+			[
+				"zaya",
+				"zayavka_id"
+			],
+			[
+				"certs",
+				"certs_str"
+			],
+			[
+				"SE",
+				"SELECT"
+			],
+			[
+				"reg",
+				"reg_time"
+			],
+			[
+				"po",
+				"_POST"
+			],
+			[
+				"prep",
+				"prependTo\t.prependTo()"
+			],
+			[
+				"data",
+				"data_to_return"
+			],
+			[
+				"electron",
+				"electron_certs"
+			],
+			[
+				"go",
+				"go_match"
+			],
+			[
+				"za",
+				"zayavki"
+			],
+			[
+				"client",
+				"client_email"
+			],
+			[
+				"zakaz",
+				"zakaz_id"
+			],
+			[
+				"cert",
+				"cert_letter_text_part"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"check",
+				"check_code_res"
+			],
+			[
+				"erro",
+				"error_qtity"
+			],
+			[
+				"vse",
+				"vsegoMozhno"
+			],
+			[
+				"code",
+				"code_desc"
+			],
+			[
+				"order",
+				"orderId"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"where",
+				"WHERE"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"complec",
+				"complect_prefix"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ce",
+				"certno"
+			],
+			[
+				"sele",
+				"SELECT"
+			],
+			[
+				"QU",
+				"query_exec"
+			],
+			[
+				"html",
+				"html\t.html()"
+			],
+			[
+				"orde",
+				"orderId"
+			],
+			[
+				"part",
+				"partnerCodeId"
+			],
+			[
+				"partner",
+				"partnerCode"
+			],
+			[
+				"promo",
+				"promocode"
+			],
+			[
+				"ln",
+				"language"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"ele",
+				"else"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"pro",
+				"promocode_records"
+			],
+			[
+				"april",
+				"april-bg_2"
+			],
+			[
+				"city",
+				"city_label"
+			],
+			[
+				"z_da",
+				"z_date"
+			],
+			[
+				"z_",
+				"z_date"
+			],
+			[
+				"man",
+				"man_id"
+			],
+			[
+				"fet",
+				"fetch"
+			],
+			[
+				"clo",
+				"closest\t.closest()"
+			],
+			[
+				"na",
+				"nav-item"
+			],
+			[
+				"menu",
+				"menu_label"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"globa",
+				"global"
+			],
+			[
+				"etap",
+				"etap"
+			],
+			[
+				"loa",
+				"load\t.load()"
+			],
+			[
+				"or",
+				"orders"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"null",
+				"NULL"
+			],
+			[
+				"eta",
+				"etap"
+			],
+			[
+				"comment",
+				"comment_id"
+			],
+			[
+				"req",
+				"requestData"
+			],
+			[
+				"sel",
+				"sel_name"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"query",
+				"query_exec"
+			],
+			[
+				"da",
+				"days_i"
+			],
+			[
+				"jq",
+				"jQuery"
+			],
+			[
+				"aja",
+				"ajax\t$.ajax()"
+			],
+			[
+				"letter",
+				"letter_html"
+			],
+			[
+				"shp",
+				"Shp_orderm"
+			],
+			[
+				"pregma",
+				"preg_match"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"nam",
+				"File: Copy Name"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"name",
+				"File: Copy Name"
+			],
+			[
+				"file",
+				"File: Copy Name"
+			],
+			[
+				"session",
+				"Session Manager: Load Session"
+			],
+			[
+				"gotota",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"sehtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"coppat",
+				"File: Copy Path"
+			],
+			[
+				"copynam",
+				"File: Copy Name"
+			],
+			[
+				"re",
+				"Emmet: Rename Tag"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remopacka",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"secss",
+				"Set Syntax: CSS"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"removetag",
+				"Emmet: Remove Tag"
+			],
+			[
+				"coppa",
+				"File: Copy Path"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"filen",
+				"File: Copy Name"
+			],
+			[
+				"adbo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"remopack",
+				"Package Control: Remove Package"
+			],
+			[
+				"all",
+				"SublimeBookmarks: Show All Bookmarks "
+			],
+			[
+				"goto",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"add",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"setshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"pares",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fil",
+				"File: Copy as Tag style"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"",
+				"Convert Case: Title Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"opentest",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"rmeo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"op",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"uppercas",
+				"Convert Case: Upper Case"
+			],
+			[
+				"test",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"renatag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"gotobo",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"opertest",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"ope",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"rmeove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"renameta",
+				"Emmet: Rename Tag"
+			],
+			[
+				"renam",
+				"Emmet: Rename Tag"
+			],
+			[
+				"rmovet",
+				"Emmet: Remove Tag"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"opinbrow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"openin ",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"copy",
+				"File: Copy as Tag script"
+			],
+			[
+				"openinbr",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"filop",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"rembook",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"remoboo",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"gotoboo",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"emmeclo",
+				"Emmet: Balance (outward)"
+			],
+			[
+				"boo",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"todo",
+				"SimpleTODO: List TODO"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"rmeov",
+				"Emmet: Remove Tag"
+			],
+			[
+				"setja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"removet",
+				"Emmet: Remove Tag"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"filesc",
+				"File: Copy as Tag script"
+			],
+			[
+				"filepa",
+				"File: Copy as Tag style"
+			],
+			[
+				"uppr",
+				"Convert Case: Upper Case"
+			],
+			[
+				"setsjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"copy p",
+				"File: Copy Path"
+			],
+			[
+				"copyp",
+				"File: Copy Path"
+			],
+			[
+				"snipp",
+				"Snippet: Function"
+			],
+			[
+				"bok",
+				"Bookmarks: Toggle"
+			],
+			[
+				"addbo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"selbra",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"seleba",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"brackeco",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"selcont",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"seleta",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"selebr",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"sebrco",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"selbr",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"selbrco",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"uper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sebrac",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"brasebr",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"renamta",
+				"Emmet: Rename Tag"
+			],
+			[
+				"rem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"sele",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"copsc",
+				"File: Copy as Tag script"
+			],
+			[
+				"copscr",
+				"File: Copy as Tag script"
+			],
+			[
+				"select",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"remot",
+				"Emmet: Remove Tag"
+			],
+			[
+				"copys",
+				"File: Copy as Tag style"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"conv",
+				"Convert Case: Title Case"
+			],
+			[
+				"coass",
+				"File: Copy as Tag script"
+			],
+			[
+				"copas",
+				"File: Copy as Tag script"
+			],
+			[
+				"copassc",
+				"File: Copy as Tag script"
+			],
+			[
+				"copyass",
+				"File: Copy as Tag script"
+			],
+			[
+				"filecopya",
+				"File: Copy as Tag style"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"translru",
+				"Translit: Russian/Belarusian Cyrillic (GOST 7.79b)"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 224.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OpenServer/domains/study.loc/fullstack.st",
+		"/D/OpenServer/domains/study.loc/fullstack.st/client"
+	],
+	"file_history":
+	[
+		"/D/OpenServer/domains/study.loc/fullstack.st/client/proxy.conf.json",
+		"/D/Projects/NeboCRM/proxy.conf.json",
+		"/D/Projects/NeboCRM/package.json",
+		"/D/Projects/NeboCRM/proxy.txt",
+		"/D/OpenServer/domains/todobox.loc/www/index.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/cli.tpl.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/layout.php",
+		"/D/OpenServer/domains/todobox.loc/www/lib/functions.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/assets/pages/scripts/form-editable.js",
+		"/D/OpenServer/domains/todobox.loc/www/css/less/style.less",
+		"/D/streetadventure.com.access.log",
+		"/D/streetadventure.com.access (1).log",
+		"/D/streetadventure.com.access (2).log",
+		"/E/Видео уроки/PHP/Laravel - WebForMyself/Laravel framework. Zero to Pro/disk.1/videokurs/part1/028/app/Http/Middleware/Authenticate.php",
+		"/E/Видео уроки/PHP/Laravel - WebForMyself/Laravel framework. Zero to Pro/disk.1/videokurs/part1/028/app/Providers/AppServiceProvider.php",
+		"/E/Видео уроки/PHP/Laravel - WebForMyself/Laravel framework. Zero to Pro/disk.1/videokurs/part1/028/app/Providers/AuthServiceProvider.php",
+		"/E/Видео уроки/PHP/Laravel - WebForMyself/Laravel framework. Zero to Pro/disk.1/videokurs/part1/028/app/User.php",
+		"/E/Видео уроки/PHP/Laravel - WebForMyself/Laravel framework. Zero to Pro/disk.1/videokurs/part1/028/app/Role.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/cp_aviso.php",
+		"/D/OpenServer/domains/todobox.loc/www/send-form.php",
+		"/D/OpenServer/domains/todobox.loc/www/js/custom.js",
+		"/D/OpenServer/domains/todobox.loc/www/js/tilda-forms-1.0.js",
+		"/D/OpenServer/domains/todobox.loc/www/payment/cp_check.php",
+		"/D/OpenServer/domains/todobox.loc/www/gulpfile.js",
+		"/D/OpenServer/domains/todobox.loc/www/admin/api/send_boxes.php",
+		"/D/OpenServer/domains/todobox.loc/www/js/tilda-blocks-2.3.js",
+		"/D/OpenServer/domains/todobox.loc/www/elletter.html",
+		"/D/OpenServer/domains/todobox.loc/www/letter.html",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/options.tpl.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/reccurrent/reccurr.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/reccurrent/script.js",
+		"/D/OpenServer/domains/todobox.loc/www/payment/reccurrent/tilda-forms-1.0.js",
+		"/C/Users/Mevericks/.git-credentials",
+		"/D/OpenServer/domains/todobox.loc/www/anketa/form-process.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/reccurrent/pay_response.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/compile_order.tpl.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/reccurrent/index.php",
+		"/D/Projects/Todobox/Main - Moscow/Code - Код/SQL-дампы/zayavki.csv",
+		"/D/Projects/Todobox/Main - Moscow/Code - Код/SQL-дампы/history.csv",
+		"/D/OpenServer/domains/todobox.loc/www/admin/api/fix_zayavki.php",
+		"/D/OpenServer/domains/todobox.loc/www/.editorconfig",
+		"/D/Projects/Todobox/Main - Moscow/_idefiles/todobox_ru.sublime-project",
+		"/D/OpenServer/domains/todobox.loc/www/js/tilda-forms.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/reccurrent/.editorconfig",
+		"/D/OpenServer/domains/todobox.loc/www/payment/scienceon/scienceon_after-payment-webhook.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/zayavka.tpl.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/assets/cli_ajax.php",
+		"/D/OpenServer/domains/todobox.loc/www/css/custom.css",
+		"/D/OpenServer/domains/todobox.loc/www/.gitignore",
+		"/D/OpenServer/domains/todobox.loc/www/payment/aviso.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/aviso_test.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/index.php",
+		"/D/OpenServer/domains/todobox.loc/www/regcert.php",
+		"/D/Google Drive/Сайты/ToDoBox/aviso callback POST data variables",
+		"/D/OpenServer/domains/todobox.loc/www/sftp-config.json",
+		"/D/OpenServer/domains/todobox.loc/www/payment/kokoslook/retailcrm-add-order.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/kokoslook/send-message.php",
+		"/D/Projects/Todobox/Main - Moscow/Code - Код/SQL-дампы/streetadv_todoru_20190102.sql",
+		"/D/OpenServer/domains/study.loc/test/jquery.js",
+		"/D/Projects/Todobox/Main - Moscow/Code - Код/SQL-дампы/clients_20181124.csv",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/add_unic_complect.tpl.php",
+		"/D/OpenServer/domains/todobox.loc/www/css/style.css",
+		"/D/OpenServer/domains/todobox.loc/www/admin/api/sendpulse-api.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/api/sendpulse-send.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/boxletters.tpl.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/edit_boxletter.tpl.php",
+		"/D/Projects/Todobox/Main - Moscow/Code - Код/Scripts - Сторонние скрипты/metronic_v4.5.6/theme/admin_1/ui_alerts_api.html",
+		"/D/OpenServer/domains/todobox.loc/www/vendor/sendpulse/rest-api/src/ApiClient.php",
+		"/D/OpenServer/domains/todobox.loc/www/lib/vendor_backups/SendPulseApiClient.php",
+		"/C/Users/Mevericks/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/D/OpenServer/domains/todobox.loc/www/vendor/sendpulse/rest-api/src/Storage/FileStorage.php",
+		"/D/OpenServer/domains/todobox.loc/www/vendor/sendpulse/rest-api/src/Storage/TokenStorageInterface.php",
+		"/D/OpenServer/domains/todobox.loc/www/corporate.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/check.php",
+		"/D/OpenServer/domains/todobox.loc/www/test.php",
+		"/D/OpenServer/domains/todobox.loc/www/phpmailer/get_oauth_token.php",
+		"/D/OpenServer/domains/todobox.loc/www/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps",
+		"/D/OpenServer/domains/todobox.loc/www/composer.json",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_1.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_2.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_4.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_3.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_5.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_6.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_7.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_8.html",
+		"/E/Видео уроки/Angular, JavaScript/FullStack/videokurs/part5/part5_9.html",
+		"/D/OpenServer/domains/study.loc/laravel5-angular2/package.json",
+		"/C/Users/Mevericks/AppData/Roaming/npm-cache/_logs/2018-11-22T18_27_04_128Z-debug.log",
+		"/C/Users/Mevericks/AppData/Roaming/npm-cache/_logs/2018-11-22T18_20_09_080Z-debug.log",
+		"/D/OpenServer/domains/todobox.loc/www/sg-config.js",
+		"/D/OpenServer/domains/todobox.loc/www/package.json",
+		"/D/OpenServer/domains/todobox.loc/www/payment/kokoslook/aviso.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/kokoslook/check.php",
+		"/D/Projects/Todobox/Main - Moscow/Code - Код/SQL-дампы/clients_20181121.csv",
+		"/D/OpenServer/domains/todobox.loc/to4do/www/src/precss/main.less",
+		"/D/OpenServer/domains/todobox.loc/to4do/www/src/precss/smart-grid.less",
+		"/D/OpenServer/domains/todobox.loc/to4do/www/smartgrid.js",
+		"/D/OpenServer/domains/study.loc/hellomusic.loc/package.json",
+		"/D/OpenServer/domains/todobox.loc/www/lib/inwidget/todobox_otzyvy.php",
+		"/D/OpenServer/domains/todobox.loc/www/lib/inwidget/config.php",
+		"/D/OpenServer/domains/todobox.loc/www/lib/inwidget/index.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/api/ajax.php",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/index.html",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/analytics.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/bbcodes.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/bootstrap.min.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/dle_js.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/engine.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/jquery.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/jquery.fancybox.pack.2.1.7.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/jquery.keyboardlayout.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/jqueryui.js",
+		"/F/CheckYou/Комарова Алёна/Комарова Алёна » Check You (чек ю)/watch.js",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/assets/compileOrder_ajax.php",
+		"/C/Users/Mevericks/AppData/Local/Google/Chrome/User Data/Default/Extensions/biokbpahnhnolgnfoblfflgopeepaoik/2.33_0/css/inj2.css",
+		"/C/Users/Mevericks/AppData/Local/Google/Chrome/User Data/Default/Extensions/biokbpahnhnolgnfoblfflgopeepaoik/2.33_0/css/simplemodal.css",
+		"/C/Users/Mevericks/AppData/Local/Google/Chrome/User Data/Default/Extensions/biokbpahnhnolgnfoblfflgopeepaoik/2.33_0/css/base_1.css",
+		"/C/Users/Mevericks/AppData/Local/Google/Chrome/User Data/Default/Extensions/biokbpahnhnolgnfoblfflgopeepaoik/2.33_0/css/amazium.css",
+		"/D/OpenServer/domains/todobox.loc/www/payment/kokoslook/tilda-webhook-test.php",
+		"/D/OpenServer/domains/todobox.loc/www/letter/default.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/assets/layouts/layout/scripts/custom.js",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/assets/global/plugins/js.cookie.min.js",
+		"/D/OpenServer/domains/todobox.loc/www/vendor/geolocation/DetectCity.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/no_ajax_cli.tpl.php",
+		"/D/OpenServer/domains/todobox.loc/www/payment/kokoslook/form.html",
+		"/D/OpenServer/domains/todobox.loc/www/admin/api/kokoslook/tilda-webhook-test.php",
+		"/D/OpenServer/domains/todobox.loc/www/admin/tmpl/assets/layouts/layout/css/custom.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 94.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 194.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 167.0
+	},
+	"pinned_build_system": "",
+	"project": "fullstack.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"func",
+				"lib\\functions.php"
+			],
+			[
+				"layou",
+				"admin\\tmpl\\layout.php"
+			],
+			[
+				"cli",
+				"admin\\tmpl\\cli.tpl.php"
+			],
+			[
+				"customjs",
+				"js\\custom.js"
+			],
+			[
+				"send",
+				"send-form.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"sendbo",
+				"admin\\api\\send_boxes.php"
+			],
+			[
+				"style.less",
+				"css\\less\\style.less"
+			],
+			[
+				"tildablojs",
+				"js\\tilda-blocks-2.3.js"
+			],
+			[
+				"options",
+				"admin\\tmpl\\options.tpl.php"
+			],
+			[
+				"functions",
+				"lib\\functions.php"
+			],
+			[
+				"compile_order",
+				"admin\\tmpl\\compile_order.tpl.php"
+			],
+			[
+				"cp_a",
+				"payment\\cp_aviso.php"
+			],
+			[
+				"sendfor",
+				"send-form.php"
+			],
+			[
+				"tilda-forms",
+				"js\\tilda-forms-1.0.js"
+			],
+			[
+				"cliaja",
+				"admin\\tmpl\\assets\\cli_ajax.php"
+			],
+			[
+				"functio",
+				"lib\\functions.php"
+			],
+			[
+				"compile",
+				"admin\\tmpl\\compile_order.tpl.php"
+			],
+			[
+				"clitpl",
+				"admin\\tmpl\\cli.tpl.php"
+			],
+			[
+				"regcert",
+				"regcert.php"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"send_",
+				"admin\\api\\send_boxes.php"
+			],
+			[
+				"function",
+				"lib\\functions.php"
+			],
+			[
+				"tildafor",
+				"js\\tilda-forms-1.0.js"
+			],
+			[
+				"seform",
+				"send-form.php"
+			],
+			[
+				"add_unic_complect",
+				"admin\\tmpl\\add_unic_complect.tpl.php"
+			],
+			[
+				"admininde ",
+				"admin\\index.php"
+			],
+			[
+				"edit_boxletter",
+				"admin\\tmpl\\edit_boxletter.tpl.php"
+			],
+			[
+				"boxletters",
+				"admin\\tmpl\\boxletters.tpl.php"
+			],
+			[
+				"sendpulapi",
+				"admin\\api\\sendpulse-api.php"
+			],
+			[
+				"sendpulsend",
+				"admin\\api\\sendpulse-send.php"
+			],
+			[
+				"sendpul",
+				"admin\\api\\sendpulse-api.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"cp_ch",
+				"payment\\cp_check.php"
+			],
+			[
+				"cp_",
+				"payment\\cp_aviso.php"
+			],
+			[
+				"send-fo",
+				"send-form.php"
+			],
+			[
+				"ajax.php",
+				"admin\\api\\ajax.php"
+			],
+			[
+				"cli_ajax.php",
+				"admin\\tmpl\\assets\\cli_ajax.php"
+			],
+			[
+				"sendboxes",
+				"admin\\api\\send_boxes.php"
+			],
+			[
+				"compileorder_ajax",
+				"admin\\tmpl\\assets\\compileOrder_ajax.php"
+			],
+			[
+				"libfun",
+				"lib\\functions.php"
+			],
+			[
+				"sendbox",
+				"admin\\api\\send_boxes.php"
+			],
+			[
+				"admindex",
+				"admin\\index.php"
+			],
+			[
+				"fun",
+				"lib\\functions.php"
+			],
+			[
+				"send-form",
+				"send-form.php"
+			],
+			[
+				"js.cookie.min.js",
+				"admin\\tmpl\\assets\\global\\plugins\\js.cookie.min.js"
+			],
+			[
+				"tpllaypu",
+				"admin\\tmpl\\layout.php"
+			],
+			[
+				"cli_ajax",
+				"admin\\tmpl\\assets\\cli_ajax.php"
+			],
+			[
+				"noajaxcli",
+				"admin\\tmpl\\no_ajax_cli.tpl.php"
+			],
+			[
+				"table-datatables-managed",
+				"admin\\tmpl\\assets\\pages\\scripts\\table-datatables-managed.min.js"
+			],
+			[
+				"adminindex",
+				"admin\\index.php"
+			],
+			[
+				"send_boxes",
+				"admin\\api\\send_boxes.php"
+			],
+			[
+				"partnercodes_ajax",
+				"admin\\tmpl\\assets\\partnerCodes_ajax.php"
+			],
+			[
+				"prtnrs_codes",
+				"admin\\tmpl\\prtnrs_codes.tpl.php"
+			],
+			[
+				"datatable",
+				"admin\\tmpl\\assets\\global\\plugins\\datatables\\datatables.min.js"
+			],
+			[
+				"comments",
+				"now\\wp-includes\\theme-compat\\comments.php"
+			],
+			[
+				"admincustomcss",
+				"admin\\tmpl\\assets\\layouts\\layout\\css\\custom.css"
+			],
+			[
+				"libfuncti",
+				"lib\\functions.php"
+			],
+			[
+				"cliajax",
+				"admin\\tmpl\\assets\\cli_ajax.php"
+			],
+			[
+				"form",
+				"admin\\tmpl\\assets\\pages\\scripts\\form-editable.js"
+			],
+			[
+				"funcions",
+				"lib\\functions.php"
+			],
+			[
+				"wp-activate.php",
+				"wp-activate.php"
+			],
+			[
+				"animate.css",
+				"css\\animate.css"
+			],
+			[
+				"tilda-blocks",
+				"js\\tilda-blocks-2.3.js"
+			],
+			[
+				"functions.php",
+				"lib\\functions.php"
+			],
+			[
+				"form-editable.js",
+				"admin\\tmpl\\assets\\pages\\scripts\\form-editable.js"
+			],
+			[
+				"cli.tpl.php",
+				"admin\\tmpl\\cli.tpl.php"
+			],
+			[
+				"check",
+				"payment\\check.php"
+			],
+			[
+				"ankind",
+				"anketa\\index.php"
+			],
+			[
+				"anketa/styl",
+				"anketa\\style.css"
+			],
+			[
+				"snedform",
+				"send-form.php"
+			],
+			[
+				"aviso",
+				"payment\\aviso.php"
+			],
+			[
+				"db",
+				"admin\\classes\\DBclass.php"
+			],
+			[
+				"upload_logo",
+				"admin\\api\\upload_logo.php"
+			],
+			[
+				"sectcon",
+				"includes\\section_contact.php"
+			],
+			[
+				"",
+				"payment\\aviso.php"
+			],
+			[
+				"av",
+				"payment\\aviso.php"
+			],
+			[
+				"section_poku",
+				"includes\\section_pokupka.php"
+			],
+			[
+				"boxes",
+				"admin\\tmpl\\boxes.tpl.php"
+			],
+			[
+				"head.php",
+				"includes\\head.php"
+			],
+			[
+				"letters",
+				"admin\\tmpl\\letters.tpl.php"
+			],
+			[
+				"menu",
+				"admin\\tmpl\\menu.tpl.php"
+			],
+			[
+				"cli_multiple_orders_ajax",
+				"admin\\tmpl\\assets\\cli_multiple_orders_ajax.php"
+			],
+			[
+				"compiled_orders_ajax",
+				"admin\\tmpl\\assets\\compiled_orders_ajax.php"
+			],
+			[
+				"comp_orders",
+				"admin\\tmpl\\comp_orders.tpl.php"
+			],
+			[
+				"avi",
+				"payment\\aviso.php"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"corpota",
+				"corporate.php"
+			],
+			[
+				"sendform",
+				"send-form.php"
+			],
+			[
+				"tildaforms",
+				"js\\tilda-forms-1.0.js"
+			],
+			[
+				"customcss",
+				"css\\custom.css"
+			],
+			[
+				"libfu",
+				"lib\\functions.php"
+			],
+			[
+				"tilforms",
+				"js\\tilda-forms-1.0.js"
+			],
+			[
+				"sned",
+				"send-form.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"corpo",
+				"corporate.php"
+			],
+			[
+				"lib/fun",
+				"lib\\functions.php"
+			],
+			[
+				"index.",
+				"index.php"
+			],
+			[
+				"corporate.php",
+				"corporate.php"
+			],
+			[
+				"cutom",
+				"js\\custom.js"
+			],
+			[
+				"tilds",
+				"js\\tilda-scripts-2.6.min.js"
+			],
+			[
+				"custom",
+				"css\\custom.css"
+			],
+			[
+				"paymaviso",
+				"payment\\aviso.php"
+			],
+			[
+				"cusotm",
+				"js\\custom.js"
+			],
+			[
+				"tildablo",
+				"css\\tilda-blocks-2.6.css"
+			],
+			[
+				"corporateform",
+				"js\\corporate\\tilda-forms-1.0.min.js"
+			],
+			[
+				"apisendboxe",
+				"admin\\api\\send_boxes.php"
+			],
+			[
+				"custom.js",
+				"js\\custom.js"
+			],
+			[
+				"tildaform",
+				"js\\tilda-forms-1.0.js"
+			],
+			[
+				"tildablocks",
+				"js\\tilda-blocks-2.3.js"
+			],
+			[
+				"regce",
+				"regcert.php"
+			],
+			[
+				"partnercodes",
+				"admin\\tmpl\\assets\\partnerCodes_ajax.php"
+			],
+			[
+				"admininde",
+				"admin\\index.php"
+			],
+			[
+				"indx",
+				"index.php"
+			],
+			[
+				"recert",
+				"regcert.php"
+			],
+			[
+				"compl",
+				"admin\\tmpl\\compile_order.tpl.php"
+			],
+			[
+				"regs.tpl",
+				"admin\\tmpl\\regs.tpl.php"
+			],
+			[
+				"elcerts",
+				"admin\\tmpl\\assets\\elcerts_ajax.php"
+			],
+			[
+				"el_cert",
+				"admin\\tmpl\\el_certs.tpl.php"
+			],
+			[
+				"regs",
+				"admin\\tmpl\\assets\\regs_ajax.php"
+			],
+			[
+				"sen-form",
+				"send-form.php"
+			],
+			[
+				"zayavka",
+				"admin\\tmpl\\zayavka.tpl.php"
+			],
+			[
+				"sen",
+				"send-form.php"
+			],
+			[
+				"menut",
+				"admin\\tmpl\\menu.tpl.php"
+			],
+			[
+				"elcerts_ajax",
+				"admin\\tmpl\\assets\\elcerts_ajax.php"
+			],
+			[
+				"senbox",
+				"admin\\api\\send_boxes.php"
+			],
+			[
+				"tilda",
+				"js\\tilda-forms-1.0.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "spb",
+		"selected_items":
+		[
+			[
+				"spb",
+				"D:\\Projects\\Todobox\\SPB - Питер\\_idefiles\\todobox_spb.sublime-project"
+			],
+			[
+				"sa",
+				"D:\\Projects\\StreetAdventure\\Синий Сайт\\_idefiles\\sa-app.loc.sublime-project"
+			],
+			[
+				"ufa",
+				"D:\\Projects\\Todobox\\_sublime projects for other subdomains\\ufa.todobox.ru.sublime-project"
+			],
+			[
+				"kokos",
+				"D:\\Projects\\KokosLook\\_idefiles\\kokoslook.sublime-project"
+			],
+			[
+				"toclub",
+				"D:\\Projects\\Todobox\\TodoboxClub\\_idefiles\\todobox_club.sublime-project"
+			],
+			[
+				"",
+				"D:\\Projects\\Todobox\\Мурманск\\_idefiles\\murmansk_tdb.sublime-project"
+			],
+			[
+				"murman",
+				"D:\\Projects\\Todobox\\Мурманск\\_idefiles\\murmansk_tdb.sublime-project"
+			],
+			[
+				"murmans",
+				"D:\\Projects\\Todobox\\Мурманск\\_idefiles\\murmansk_tdb.sublime-project"
+			],
+			[
+				"murm",
+				"D:\\Projects\\Todobox\\Мурманск\\_idefiles\\murmansk_tdb.sublime-project"
+			],
+			[
+				"stre",
+				"D:\\Projects\\StreetAdventure\\StreetAdventure.Ru\\_idefiles\\streetadventure_ru.sublime-project"
+			],
+			[
+				"todobo",
+				"D:\\Projects\\Todobox\\SPB - Питер\\_idefiles\\todobox_spb.sublime-project"
+			],
+			[
+				"stree",
+				"D:\\Projects\\StreetAdventure\\StreetAdventure.Ru\\_idefiles\\streetadventure_ru.sublime-project"
+			],
+			[
+				"landloc",
+				"D:\\OpenServer\\domains\\study.loc\\land.loc\\.idea\\land_loc.sublime-project"
+			],
+			[
+				"to",
+				"D:\\Projects\\Todobox\\SPB - Питер\\_idefiles\\todobox_spb.sublime-project"
+			],
+			[
+				"todo",
+				"D:\\Projects\\Todobox\\SPB - Питер\\_idefiles\\todobox_spb.sublime-project"
+			],
+			[
+				"street",
+				"D:\\Projects\\StreetAdventure\\StreetAdventure.Ru\\_idefiles\\streetadventure_ru.sublime-project"
+			],
+			[
+				"phpmater",
+				"D:\\OpenServer\\domains\\study.loc\\php.master\\.idea\\php_master.sublime-project"
+			],
+			[
+				"strecom",
+				"D:\\Projects\\StreetAdventure\\_idefiles\\streetadventure_com.sublime-project"
+			],
+			[
+				"todoboxspb",
+				"D:\\Projects\\Todobox\\SPB - Питер\\_idefiles\\todobox_spb.sublime-project"
+			],
+			[
+				"phpmaster",
+				"D:\\OpenServer\\domains\\study.loc\\php.master\\.idea\\php_master.sublime-project"
+			],
+			[
+				"php",
+				"D:\\OpenServer\\domains\\study.loc\\php.master\\.idea\\php_master.sublime-project"
+			],
+			[
+				"saapp",
+				"D:\\Projects\\StreetAdventure\\Синий Сайт\\_idefiles\\sa-app.loc.sublime-project"
+			],
+			[
+				"todoboxru",
+				"D:\\Projects\\Todobox\\TODOBOX__RU.sublime-project"
+			],
+			[
+				"moscow",
+				"D:\\Projects\\Moscowfreetour\\moscowfreetour_com.sublime-project"
+			],
+			[
+				"mo",
+				"D:\\Projects\\Moscowfreetour\\moscowfreetour_com.sublime-project"
+			],
+			[
+				"streetru",
+				"D:\\Projects\\StreetAdventure.RU\\streetadventure_RU.sublime-project"
+			],
+			[
+				"todobospb",
+				"D:\\Projects\\Todobox\\TODOBOX__SPB.sublime-project"
+			],
+			[
+				"app",
+				"D:\\Projects\\StreetAdventure.com\\AppRu - лендинг\\appru.sublime-project"
+			],
+			[
+				"famili",
+				"D:\\Projects\\Familia GAME\\familia.sublime-project"
+			],
+			[
+				"familia",
+				"D:\\Projects\\Familia GAME\\familia.sublime-project"
+			],
+			[
+				"famil",
+				"D:\\Projects\\Familia GAME\\familia.sublime-project"
+			],
+			[
+				"todoua",
+				"D:\\Projects\\Todobox\\TODOBOX__UA.sublime-project"
+			],
+			[
+				"пж",
+				"E:\\001 ПЖ\\пж.sublime-project"
+			],
+			[
+				"appru",
+				"D:\\Projects\\StreetAdventure.com\\AppRu - лендинг\\appru.sublime-project"
+			],
+			[
+				"krasa",
+				"D:\\Projects\\KrasaRosii\\krasarossii.sublime-project"
+			],
+			[
+				"steru",
+				"D:\\Projects\\StreetAdventure.RU\\streetadventure_RU.sublime-project"
+			],
+			[
+				"free",
+				"D:\\Projects\\FreeTourVenice\\freetourvenice.sublime-project"
+			],
+			[
+				"astana",
+				"D:\\Projects\\StreetAdventure.com\\astana\\astana.sublime-project"
+			],
+			[
+				"asta",
+				"D:\\Projects\\StreetAdventure.com\\astana\\astana.sublime-project"
+			],
+			[
+				"stee",
+				"D:\\Projects\\StreetAdventure.com\\streetAdventureCom.sublime-project"
+			],
+			[
+				"str",
+				"D:\\Projects\\StreetAdventure.com\\streetAdventureCom.sublime-project"
+			],
+			[
+				"todrink",
+				"D:\\Projects\\ToDrinkToEat\\todrinktoeat.sublime-project"
+			],
+			[
+				"streecom",
+				"D:\\Projects\\StreetAdventure.com\\streetAdventureCom.sublime-project"
+			],
+			[
+				"a",
+				"D:\\Projects\\StreetAdventure.com\\streetAdventureCom.sublime-project"
+			],
+			[
+				"moso",
+				"D:\\Projects\\Moscowfreetour\\moscowfreetour_com.sublime-project"
+			],
+			[
+				"mosc",
+				"D:\\Projects\\Moscowfreetour\\moscowfreetour_com.sublime-project"
+			],
+			[
+				"mosco",
+				"D:\\Projects\\Moscowfreetour\\moscowfreetour_com.sublime-project"
+			],
+			[
+				"mos",
+				"D:\\Projects\\Moscowfreetour\\moscowfreetour_com.sublime-project"
+			],
+			[
+				"s",
+				"D:\\Projects\\MilanFreeTour\\milanfreetour.sublime-project"
+			],
+			[
+				"mil",
+				"D:\\Projects\\MilanFreeTour\\milanfreetour.sublime-project"
+			],
+			[
+				"art",
+				"D:\\Projects\\Art-poiski\\ArtPoiski.sublime-project"
+			],
+			[
+				"kra",
+				"D:\\Projects\\KrasaRosii\\krasarossii.sublime-project"
+			],
+			[
+				"wa",
+				"D:\\Projects\\WakeUpChat\\wakeupchat.sublime-project"
+			],
+			[
+				"kraa",
+				"D:\\Projects\\KrasaRosii\\krasarossii.sublime-project"
+			],
+			[
+				"chal",
+				"D:\\Projects\\WakeUpChat\\wakeupchat.sublime-project"
+			],
+			[
+				"kvest",
+				"D:\\Projects\\kvestik.ru\\kvestik.sublime-project"
+			],
+			[
+				"al",
+				"D:\\Projects\\AllFreeTours\\allfreetours.sublime-project"
+			],
+			[
+				"streetacom",
+				"D:\\Projects\\StreetAdventure.com\\streetAdventureCom.sublime-project"
+			],
+			[
+				"all",
+				"D:\\Projects\\AllFreeTours\\allfreetours.sublime-project"
+			],
+			[
+				"streetco",
+				"D:\\Projects\\StreetAdventure.com\\streetAdventureCom.sublime-project"
+			],
+			[
+				"cha",
+				"D:\\Projects\\WakeUpChat\\wakeupchat.sublime-project"
+			],
+			[
+				"gul",
+				"D:\\Work Folder\\00. SuperGeroi Никита 02\\28. Art-poiski\\art-poiski.sublime-project"
+			],
+			[
+				"kras",
+				"D:\\Work Folder\\10. SublimeProjects\\KRASA-ROSSII.sublime-project"
+			],
+			[
+				"check",
+				"D:\\Work Folder\\10. SublimeProjects\\checkup.sublime-project"
+			],
+			[
+				"lo",
+				"D:\\Work Folder\\10. SublimeProjects\\london3.streetadventure_com.sublime-project"
+			],
+			[
+				"london2",
+				"D:\\Work Folder\\10. SublimeProjects\\london2.streetadventure_com.sublime-project"
+			],
+			[
+				"tictac",
+				"D:\\Work Folder\\10. SublimeProjects\\tictac.sublime-project"
+			],
+			[
+				"m",
+				"D:\\Work Folder\\10. SublimeProjects\\mskfreetour.sublime-project"
+			],
+			[
+				"eng",
+				"D:\\Work Folder\\10. SublimeProjects\\ENGINEER-HISTORY.sublime-project"
+			],
+			[
+				"90",
+				"D:\\Work Folder\\00. SuperGeroi Никита 02\\26. 90tie\\90tie.sublime-project"
+			],
+			[
+				"mar",
+				"D:\\Work Folder\\00. SuperGeroi Никита 02\\24. marcklychi.ru\\marcklychi_loc.sublime-project"
+			],
+			[
+				"mis",
+				"D:\\Work Folder\\00. SuperGeroi Никита 02\\23. missegoizm.ru\\Documents\\misegoizm.ru.sublime-project"
+			],
+			[
+				"ca",
+				"D:\\Work Folder\\10. SublimeProjects\\cafe-begemot.sublime-project"
+			],
+			[
+				"miss",
+				"D:\\Work Folder\\00. SuperGeroi Никита 02\\23. missegoizm.ru\\Documents\\misegoizm.ru.sublime-project"
+			],
+			[
+				"sun",
+				"/D/Work Folder/00. » SuperGeroi Никита ①/17. » SunSeason/sunseason.sublime-project"
+			],
+			[
+				"hop",
+				"/D/Work Folder/00. » SuperGeroi Никита ①/16. » hophop/hoponhop.sublime-project"
+			],
+			[
+				"mf",
+				"/D/Work Folder/10. » SublimeProjects/MirFireworks.sublime-project"
+			],
+			[
+				"cen",
+				"/D/Work Folder/10. » SublimeProjects/centOS.sublime-project"
+			],
+			[
+				"ho",
+				"/D/Work Folder/00. » SuperGeroi Никита ①/16. » hophop/hoponhop.sublime-project"
+			],
+			[
+				"jque",
+				"/D/Work Folder/10. » SublimeProjects/jquery.sublime-project"
+			],
+			[
+				"me",
+				"/D/Work Folder/10. » SublimeProjects/mevericks.com"
+			],
+			[
+				"boslo",
+				"/D/Work Folder/10. » SublimeProjects/BOSLOVYAK.sublime-project"
+			],
+			[
+				"br",
+				"/D/Work Folder/10. » SublimeProjects/_BRODILKI_.sublime-project"
+			],
+			[
+				"enge",
+				"/D/Work Folder/10. » SublimeProjects/ENGINEER-HISTORY.sublime-project"
+			],
+			[
+				"atta",
+				"/D/Work Folder/10. » SublimeProjects/attack_concerts.sublime-project"
+			],
+			[
+				"atts",
+				"/D/Work Folder/10. » SublimeProjects/attack_concerts.sublime-project"
+			],
+			[
+				"at",
+				"/D/Work Folder/10. » SublimeProjects/attack_concerts.sublime-project"
+			],
+			[
+				"caf",
+				"/D/Work Folder/» Cafe Begemot/cafe-begemot.sublime-project"
+			],
+			[
+				"att",
+				"/D/Work Folder/» Attack concerts/[_assets]/attack_concerts.sublime-project"
+			],
+			[
+				"de",
+				"/D/Work Folder/sublime projects/DEV.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 39.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"editPartnercodes",
+				"editPartnercodes"
+			],
+			[
+				"t461__additional_social_links_item",
+				"t461__additional_social_links_item"
+			]
+		],
+		"width": 1267.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
